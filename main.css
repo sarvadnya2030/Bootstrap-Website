@@ -1,0 +1,15 @@
+.bg-orange{
+    background-color:#fea100 !important ;
+}
+.bg-dark-orange{
+    background: color #f6721d !important ;
+}
+.bg-blue{
+    background-color:#248ce2 !important ;
+}
+.bg-dark-blue{
+    background-color:#0c5398 !important ;
+}
+.bg-blue-gradient{
+    background: linear-gradient(90deg,#0c5398,#248ce2);;
+}
