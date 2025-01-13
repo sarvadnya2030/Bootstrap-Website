@@ -43,3 +43,29 @@
     width:140% !important;
     transform: translateX(-12%);
 }
+.menu-trending-course li{
+    cursor: pointer;
+    border:1px solid transparent;
+    padding: 0 8px;
+    font-size: 18px;
+
+}
+.menu-trending-course li:hover{
+    color:#0c5398;
+    border-color: #248ce2;
+
+
+}
+.circle{
+    height:30px;
+    width:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 50%;
+}
+.course-list-item-1{
+    background:linear-gradient(90deg,#bc66d8,#ef97b1);
+    width:25%
+}
